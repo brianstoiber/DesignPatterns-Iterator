@@ -1,0 +1,27 @@
+*************************Menu*****************************
+***********************IceCreams**************************
+Name 						 cost
+-------------------------------------------------------
+MOOSE TRACKS
+Vanilla ice cream with chocolate swirl & peanut butter cups 	 $2
+MINT CHOCOLATE CHUNK
+Mint ice cream with chocolate chucks	 $2
+BUTTER PECAN
+Smooth vanilla ice cream with a slight buttery flavor and with pecans added	 $2
+CHOCOLATE
+Classic chocolate ice cream	$2
+VINILLA
+Classic vinilla ice cream	$2
+RASPBERRY RIPPLE
+Raspberry syrup injected into vanilla ice cream	$2
+************************Cookies***************************
+Name 						 cost
+-------------------------------------------------------
+CHOCOLATE CHIP
+Traditional cookie with chocolate chips baked throughout 	 $1
+PEANUT BUTTER
+Cookie made of and filled with peanut butter goodness 	 $1
+OATMEAL RAISEN
+Oatmeal cookie with raisens baked throughout	$1
+FORTUNE COOKIE
+Crisp Sugar cookies with a hidden fortune (poorly written) inside	$1
