@@ -102,9 +102,10 @@ public class IteratorPatternTest {
 		// using trim function to remove extra spaces if any and get only the string values
 		
 		/**
-		 * trying to compare the output to the contents on sampleMenu.txt but the test keeps failing
+		 * I tried to compare the output to the contents on sampleMenu.txt 
+		 * but the test keeps failing and I can't figure out the cause of it
 		 */
-		// assertEquals(outContent.toString().trim(),getFileContents("sampleMenu.txt").trim());
+		 assertEquals(outContent.toString().trim(),getFileContents("sampleMenu.txt").trim());
 	}
 	
 	// helper function that is used to get file contents.
